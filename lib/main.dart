@@ -34,10 +34,10 @@ class RecipePage extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
 
-              // PART 1 - BG IMAGE & TITLE
+              // PART 1 - BG IMAGE & TITLEEE
 
               Container(
-                height: 285,
+                height: 290,
                 width: double.infinity,
                 decoration: const BoxDecoration(
                   borderRadius: BorderRadius.vertical(
